@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <h1>
+    Woodpecker Online Intellectual Property Services
+  </h1>
 </template>
