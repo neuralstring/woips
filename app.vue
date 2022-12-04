@@ -1,5 +1,6 @@
 <template>
-  <h1>
-    Woodpecker Online Intellectual Property Services
-  </h1>
+    <NuxtLayout>
+      <NuxtLoadingIndicator color="linear-gradient(hsla(0, 61%, 54%, 85%), hsl(25, 46%, 21%))"/>
+      <NuxtPage />
+    </NuxtLayout>
 </template>
