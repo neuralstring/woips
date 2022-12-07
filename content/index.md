@@ -9,6 +9,7 @@ description: 'WIPOS is an online intellectual property portal which help users t
 ------------
 
 ![](https://woips.net/image/WOIPS_LOGO_Patent.png)
+
 > WOIPS Patent Drafting Solution
 
 ## WOIPS Patent Drafting Solution
