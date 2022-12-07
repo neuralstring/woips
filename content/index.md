@@ -9,6 +9,7 @@ description: 'WIPOS is an online intellectual property portal which help users t
 ------------
 
 ![](https://woips.net/image/WOIPS_LOGO_Patent.png)
+> WOIPS Patent Drafting Solution
 
 ## WOIPS Patent Drafting Solution
 In patent drafting, **WOIPS** tries to create an application that can help you to draft your invention application on your own with international standards. Since the patent document is both technical and legal, our specialists help you to make it without formal and substantive defects with the features of this online application.
