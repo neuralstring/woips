@@ -6,13 +6,14 @@ description: 'WIPOS is an online intellectual property portal which helps users 
 # Woodpecker Online Intellectual Property Services
 **WIPOS** is an online intellectual property portal that helps the users preparing specific documents. Currently **WIPOS** start its activity with **Online Patent Drafting** and will extend is to another kind of IP.
 
-------------
 
 ::card
 ::center
 ![](https://woips.net/image/WOIPS_LOGO_Patent.png)
 ::
 
+
+------------
 
 
 ## WOIPS Patent Drafting Solution
