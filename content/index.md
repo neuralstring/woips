@@ -5,9 +5,9 @@ description: 'WIPOS is an online intellectual property portal which helps users 
 
 ::center
 ![](https://woips.net/image/WOIPS_LOGO_EN2.png)
-::
 
-::center
+
+
 # Woodpecker Online Intellectual Property Services
 ::
 
